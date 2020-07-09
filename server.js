@@ -21,7 +21,7 @@ app.use(express.json());
 app.use(cors());
 
 const Clarifaiapp = new Clarifai.App({
-  apiKey: "bc412916b4544ab59ecf9d735c7076d4",
+  apiKey: "#####",
 });
 
 app.get("/", (req, res) => {
