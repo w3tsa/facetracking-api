@@ -26,6 +26,7 @@
     "lodash": ">=4.17.21",
     "normalize-url": ">=4.5.1",
     "glob-parent": ">=5.1.2",
-    "tar": ">=4.4.15"
+    "tar": ">=4.4.15",
+    "normalize-url": ">=4.5.1"
   }
 }
